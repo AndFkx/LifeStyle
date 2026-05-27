@@ -90,7 +90,7 @@ whatsappBtn.addEventListener("click", (e) => {
 
     e.preventDefault();
 
-    const numero = "573000000000";
+    const numero = "573242187473";
 
     const mensaje =
     "Hola, quiero información sobre las motos de LifeStyle";
